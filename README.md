@@ -1,5 +1,5 @@
-Website [pranjalis.me](https://www.pranjalis.me)
+Website (https://mudraverma.onrender.com/)
 
 # Portfolio website
 
-A portfolio website created using React.js hosted on Netlify.
+A portfolio website created using React.js hosted on Render.
