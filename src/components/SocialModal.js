@@ -64,17 +64,17 @@ function SocialModal() {
 				<SocialIcons>
 					<Icon label='github'>
 						<AiOutlineGithub size={35} />
-						<CustomLink href='https://github.com/pranjaljain0' target='_blank'>
-							@pranjaljain0
+						<CustomLink href='https://github.com/mudraverma65' target='_blank'>
+							@mudraverma65
 						</CustomLink>
 					</Icon>
 					<Icon label='linkedin'>
 						<AiOutlineLinkedin size={35} />
 						<CustomLink
-							href='https://www.linkedin.com/in/pranjaljain0/'
+							href='https://www.linkedin.com/in/mudra-verma-0371b41a0/'
 							target='_blank'
 						>
-							@pranjaljain0
+							@mudraverma
 						</CustomLink>
 					</Icon>
 				</SocialIcons>

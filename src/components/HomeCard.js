@@ -1,5 +1,7 @@
 import {GiBookshelf, GiThorHammer} from 'react-icons/gi'
 import React, {useState} from 'react'
+import { FaBook } from 'react-icons/fa';
+
 
 import {Col} from 'react-bootstrap'
 import {DiJavascript1} from 'react-icons/di'
@@ -9,7 +11,7 @@ import HomeModal from './HomeModal'
 import {TiSocialAtCircular} from 'react-icons/ti'
 
 function seticon(iconName, size) {
-	if (iconName === 'FaGuitar') return <FaGuitar color='#fff' size={size} />
+	if (iconName === 'FaBook') return <FaBook color='#fff' size={size} />
 	else if (iconName === 'GiBookshelf')
 		return <GiBookshelf color='#fff' size={size} />
 	else if (iconName === 'GiThorHammer')
