@@ -15,8 +15,8 @@
 						"HTML",
 						"CSS"
 					],
-					"initialColor": "#56CCF2",
-					"finalColor": "#2F80ED",
+					"initialColor": "#985F99",
+					"finalColor": "#985F99",
 					"language": "C++"
 				},
 				{
@@ -32,7 +32,7 @@
 						"CSS"
 					],
 					"initialColor": "#373B44",
-					"finalColor": "#4286f4",
+					"finalColor": "#373B44",
 					"language": "Java"
 				},
 				{
@@ -51,8 +51,8 @@
 						"API Gateway",
 						"SNS"
 					],
-					"initialColor": "#f12711",
-					"finalColor": "#f5af19",
+					"initialColor": "#688E26",
+					"finalColor": "#688E26",
 					"language": "JavaScript"
 				},
 				{
@@ -71,8 +71,8 @@
 						"AWS Api Gateway",
 						"AWS SNS"
 					],
-					"initialColor": "#11998e",
-					"finalColor": "#38ef7d",
+					"initialColor": "#C42021",
+					"finalColor": "#C42021",
 					"language": "Haskell"
 				},
 				{
@@ -90,8 +90,8 @@
 						"Sklearn",
 						"Matplotlib"
 					],
-					"initialColor": "#f05053",
-					"finalColor": "#e1eec3",
+					"initialColor": "#2D7DD2",
+					"finalColor": "#2D7DD2",
 					"language": "Ruby"
 				},
 				{
@@ -109,8 +109,8 @@
 						"Pandas",
 						"Sklearn"
 					],
-					"initialColor": "#f05053",
-					"finalColor": "#e1eec3",
+					"initialColor": "#EEB902",
+					"finalColor": "#EEB902",
 					"language": "Ruby"
 				},
 				{
@@ -124,8 +124,8 @@
 						"PHP",
 						"Android Studio"
 					],
-					"initialColor": "#f05053",
-					"finalColor": "#e1eec3",
+					"initialColor": "#F17105",
+					"finalColor": "#F17105",
 					"language": "Ruby"
 				}
 
@@ -185,7 +185,7 @@
 			"value": [
 				{
 					"title": "Reading",
-					"hobbyIcon": "FaPuzzlePiece"
+					"hobbyIcon": "FaBook"
 				},
 				{
 					"title": "Computing",

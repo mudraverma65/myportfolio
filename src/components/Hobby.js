@@ -2,7 +2,7 @@ import {
 	FaDumbbell,
 	FaGuitar,
 	FaNetworkWired,
-	FaPuzzlePiece,
+	FaBook,
 } from 'react-icons/fa'
 import {MdCardTravel, MdComputer} from 'react-icons/md'
 
@@ -10,8 +10,8 @@ import React from 'react'
 import styled from 'styled-components'
 
 function hobbyIconCheck(iconName, size) {
-	if (iconName === 'FaPuzzlePiece')
-		return <FaPuzzlePiece color='#fff' size={size} />
+	if (iconName === 'FaBook')
+		return <FaBook color='#fff' size={size} />
 	else if (iconName === 'MdComputer')
 		return <MdComputer color='#fff' size={size} />
 	else if (iconName === 'FaDumbbell')
