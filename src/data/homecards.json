@@ -283,22 +283,40 @@
 			"title": "Work Experience",
 			"value": [
 				{
+					"title": "Software Engineer Co-op - Royal Bank of Canada.",
+					"duration": "4 months",
+					"location": "Toronto - Canada",
+					"description": [
+						"Architected a scalable web application using Selenium Web driver to automate data validation process for newly onboarded applications on IAM systems and save 120% manual testing time.",
+						"Collaborated with team to translate client requirements into design and craft a high-quality scalable automation solution.",
+						"Followed SOLID design principles and OOP concepts to write testable code, ensuring reusability for 6+ use-cases.",
+						"Tackled tech debt in refactoring sessions with team to modify code base improving performance of build systems by 7%.",
+						"Created automation test scripts for multi factor authentication (MFA), saving 3000+ manual hours.",	
+						"Wrote concise documentation for product delivery, facilitating seamless implementation and adoption by 6 client teams.",
+						"Leveraged confluence pages to rapidly learn new technologies and frameworks used in RBCs IAM domain.",
+						"Performed regression testing on IAM systems to identify areas of improvement in functionality."
+					]
+				},
+				{
 					"title": "Full Stack Developer - Strux Inc.",
-					"duration": "1 year 2 months",
+					"duration": "2 years 2 months",
 					"location": "Mumbai - India",
 					"url": "https://strux.in/",
 					"description": [
-						"Designed and implemented responsive user interfaces using Java, JavaScript and React framework.",
+						"Designed and implemented responsive user interfaces using Java, AWS, JavaScript and React framework.",
 						"Developed RESTful APIs and integrated them with front-end components to ensure seamless data flow.",
 						"Utilized Git version control systems for efficient collaboration and code management.",
 						"Regularly updated and maintained existing projects to ensure compatibility with evolving web standards and technologies.",
-						"Led a team of 2 interns and successfully developed and deployed over 12 web-based projects. Supervising them by maintaining a Kanban board on Jira."
+						"Leveraged AWS concepts (EC2, Elastic Beanstalk, Lambda, API Gateway, Textract, SNS, SQS, S3, DynamoDB) to create event-driven serverless applications, resulting in 30% lower response time.",
+						"Translated project stakeholders requirements into features and planned the Software Development Life Cycle (SDLC) within budget constraints, ensuring successful delivery of high-quality solutions.",
+						"Leveraged major cloud providers like AWS and GCP to create applications, resulting in 50% lower operational costs.",
+						"Crafted responsive React styled components using HTML5, Tailwind CSS, Bootstrap/Material UI, and JavaScript libraries driving 30% surge in user engagement."						
 					]
 				},
 				{
 					"title": "Data Analyst Intern - GeeBee Pvt. Ltd.",
 					"description": [
-						"Designed and implemented database schemas to accommodate 750+ universities worldwide.",
+						"Implemented database schema for 750+ universities and wrote queries that render results in 0.2 seconds",
 						"Developed and executed SQL queries and stored procedures to extract, transform, and load (ETL) data from various sources into the MySQL database.",
 						"Ensuring data security and compliance with GDPR by implementing access controls and encryption."
 					],
