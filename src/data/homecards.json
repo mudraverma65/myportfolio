@@ -139,35 +139,35 @@
 			"value": [
 				{
 					"title": "Java",
-					"level": "Advance"
+					"level": "Advanced"
 				},
 				{
 					"title": "Python",
-					"level": "Advance"
+					"level": "Advanced"
 				},
 				{
 					"title": "ReactJS",
-					"level": "Advance"
+					"level": "Advanced"
 				},
 				{
 					"title": "CSS",
-					"level": "Advance"
+					"level": "Advanced"
 				},
 				{
 					"title": "HTML",
-					"level": "Advance"
+					"level": "Advanced"
 				},
 				{
 					"title": "SQL",
-					"level": "Advance"
+					"level": "Advanced"
 				},
 				{
 					"title": "C",
-					"level": "Advance"
+					"level": "Advanced"
 				},
 				{
 					"title": "C++",
-					"level": "Advance"
+					"level": "Advanced"
 				},
 				{
 					"title": "JS",
@@ -175,15 +175,15 @@
 				},
 				{
 					"title": "TypeScript",
-					"level": "Advance"
+					"level": "Advanced"
 				},
 				{
 					"title": "Node.js",
-					"level": "Advance"
+					"level": "Advanced"
 				},
 				{
 					"title": "AWS",
-					"level": "Advance"
+					"level": "Advanced"
 				},
 				{
 					"title": "Docker",
@@ -195,15 +195,15 @@
 				},
 				{
 					"title": "MongoDB",
-					"level": "Advance"
+					"level": "Advanced"
 				},
 				{
 					"title": "Git",
-					"level": "Advance"
+					"level": "Advanced"
 				},
 				{
 					"title": "Spring Boot",
-					"level": "Advance"
+					"level": "Advanced"
 				}
 			],
 			"route": "/languages",
