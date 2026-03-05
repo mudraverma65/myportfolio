@@ -1,8 +1,7 @@
-import { Button, Nav, Navbar } from 'react-bootstrap'
-import { FaDownload, FaGithub, FaLinkedin } from 'react-icons/fa'
+import { Nav, Navbar } from 'react-bootstrap'
+import { FaGithub, FaLinkedin } from 'react-icons/fa'
 import React, { useState } from 'react'
 
-import PortfolioLogo from '../assets/Image/logo.svg'
 import loadable from '@loadable/component'
 
 const ResumeModal = loadable(() => import('./ResumeModal'))

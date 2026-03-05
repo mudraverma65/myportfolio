@@ -43,6 +43,7 @@ body,
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
+	box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
 }
 
 .mainRow {
@@ -225,7 +226,8 @@ a.navbar_logo_container {
 }
 
 .innerColImg:hover {
-	transform: scale(1.2);
+	transform: scale(1.1);
+	filter: brightness(1.1);
 }
 
 .innerCol {
@@ -258,8 +260,9 @@ a.navbar_logo_container {
 	background-clip: text;
 	-webkit-text-fill-color: transparent;
 	font-weight: 700;
-	font-size: 250%;
+	font-size: 280%;
 	display: inline;
+	letter-spacing: 1px;
 }
 
 .leftText {
@@ -284,6 +287,8 @@ a.projectLink {
 .animated_text {
 	font-size: 140%;
 	font-weight: bold;
+	margin-top: 10px;
+	color: rgba(255, 255, 255, 0.85);
 }
 
 .projectTitle {
@@ -294,7 +299,7 @@ a.projectLink {
 
 .RightUpperSecContent {
 	margin: auto;
-	padding: 1rem;
+	padding: 1.5rem;
 	display: flex;
 	justify-content: center;
 	align-items: flex-start;
@@ -314,6 +319,8 @@ a.projectLink {
 
 .RightUpperSecContent p {
 	margin: 0px 0px;
+	line-height: 1.6;
+	color: #333;
 }
 
 .projectValue {
@@ -334,6 +341,7 @@ a.projectLink {
 
 .modal-content {
 	border-radius: 11px !important;
+	box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15);
 }
 
 .project_list_item_link {
@@ -354,6 +362,12 @@ a.projectLink {
 	border-radius: 11px;
 	background-color: #00e4d0;
 	margin: 10px 0px;
+	transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.project_list_item:hover {
+	transform: translateY(-2px);
+	box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
 }
 
 .project_list_item a {

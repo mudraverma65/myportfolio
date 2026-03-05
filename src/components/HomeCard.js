@@ -5,7 +5,6 @@ import { FaBook } from 'react-icons/fa';
 
 import {Col} from 'react-bootstrap'
 import {DiJavascript1} from 'react-icons/di'
-import {FaGuitar} from 'react-icons/fa'
 import {GoRepo} from 'react-icons/go'
 import HomeModal from './HomeModal'
 import {TiSocialAtCircular} from 'react-icons/ti'
