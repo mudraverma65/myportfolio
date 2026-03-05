@@ -128,7 +128,6 @@
 					"finalColor": "#F17105",
 					"language": "Ruby"
 				}
-
 			],
 			"route": "/projects",
 			"initialColor": "#56CCF2",
@@ -173,6 +172,38 @@
 				{
 					"title": "JS",
 					"level": "Intermediate"
+				},
+				{
+					"title": "TypeScript",
+					"level": "Advance"
+				},
+				{
+					"title": "Node.js",
+					"level": "Advance"
+				},
+				{
+					"title": "AWS",
+					"level": "Advance"
+				},
+				{
+					"title": "Docker",
+					"level": "Intermediate"
+				},
+				{
+					"title": "Kubernetes",
+					"level": "Intermediate"
+				},
+				{
+					"title": "MongoDB",
+					"level": "Advance"
+				},
+				{
+					"title": "Git",
+					"level": "Advance"
+				},
+				{
+					"title": "Spring Boot",
+					"level": "Advance"
 				}
 			],
 			"route": "/languages",
@@ -283,6 +314,22 @@
 			"title": "Work Experience",
 			"value": [
 				{
+					"title": "Software Engineer - Royal Bank of Canada",
+					"duration": "1 year+",
+					"location": "Toronto - Canada",
+					"url": "https://www.rbc.com/",
+					"description": [
+						"Developed and maintained scalable microservices using Java and Spring Boot, serving millions of daily transactions across digital banking platforms.",
+						"Designed and implemented cloud-native solutions on AWS, leveraging services like ECS, Lambda, S3, and DynamoDB to improve system reliability and reduce infrastructure costs by 25%.",
+						"Built CI/CD pipelines using Jenkins and GitHub Actions to automate deployments, reducing release cycle time by 40%.",
+						"Collaborated with cross-functional teams to architect RESTful APIs and event-driven systems using Kafka for real-time data processing.",
+						"Led migration of legacy monolithic applications to containerized microservices using Docker and Kubernetes.",
+						"Implemented comprehensive monitoring and observability using Splunk and Grafana, improving incident response time by 50%.",
+						"Mentored junior developers through code reviews and pair programming sessions, fostering engineering best practices.",
+						"Contributed to security-first development practices, ensuring compliance with financial industry regulations."
+					]
+				},
+				{
 					"title": "Software Engineer Co-op - Royal Bank of Canada.",
 					"duration": "4 months",
 					"location": "Toronto - Canada",
@@ -291,7 +338,7 @@
 						"Collaborated with team to translate client requirements into design and craft a high-quality scalable automation solution.",
 						"Followed SOLID design principles and OOP concepts to write testable code, ensuring reusability for 6+ use-cases.",
 						"Tackled tech debt in refactoring sessions with team to modify code base improving performance of build systems by 7%.",
-						"Created automation test scripts for multi factor authentication (MFA), saving 3000+ manual hours.",	
+						"Created automation test scripts for multi factor authentication (MFA), saving 3000+ manual hours.",
 						"Wrote concise documentation for product delivery, facilitating seamless implementation and adoption by 6 client teams.",
 						"Leveraged confluence pages to rapidly learn new technologies and frameworks used in RBCs IAM domain.",
 						"Performed regression testing on IAM systems to identify areas of improvement in functionality."
@@ -310,7 +357,7 @@
 						"Leveraged AWS concepts (EC2, Elastic Beanstalk, Lambda, API Gateway, Textract, SNS, SQS, S3, DynamoDB) to create event-driven serverless applications, resulting in 30% lower response time.",
 						"Translated project stakeholders requirements into features and planned the Software Development Life Cycle (SDLC) within budget constraints, ensuring successful delivery of high-quality solutions.",
 						"Leveraged major cloud providers like AWS and GCP to create applications, resulting in 50% lower operational costs.",
-						"Crafted responsive React styled components using HTML5, Tailwind CSS, Bootstrap/Material UI, and JavaScript libraries driving 30% surge in user engagement."						
+						"Crafted responsive React styled components using HTML5, Tailwind CSS, Bootstrap/Material UI, and JavaScript libraries driving 30% surge in user engagement."
 					]
 				},
 				{
